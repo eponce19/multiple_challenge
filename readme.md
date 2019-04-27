@@ -8,7 +8,7 @@ without using else, else if or ternary operators.
 ## Basic Usage
 
 ```shell
-cd 'challenge'
+cd 'multiple_challenge'
 bundle install
 
 # run the script
